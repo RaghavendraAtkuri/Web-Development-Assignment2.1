@@ -1,0 +1,27 @@
+ <html>
+<head>
+<title> Ordered and Unordered List </title>
+</head>
+
+<body>
+
+ <h2> Scrambled Eggs </h2>
+ <p> Eggs are my Favourite ones. Below is the recipe for delicious food. </p>
+
+ <h3> Ingredients </h3>
+ <ul>
+   <li> Eggs </li>
+   <li> 1tb Butter </li>
+   <li> 2tbs Cream </li>
+</ul>
+
+ <h3> Preparation Method </h3> 
+ <ol>
+   <li> In a frying pan, melt the butter over a medium heat. </li> 
+   <li> In a bowl gentle mix the eggs and the cream. </li>
+   <li> Once the butter has melted add cream and eggs. </li>
+   <li> Using a spatula fold the eggs from the edge of the pan to the center. </li>
+   <li> when the eggs are still moist remove from the heat (it will continue to cook on the plate until it is served). </li>
+
+</body>
+</html>
